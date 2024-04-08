@@ -1,0 +1,15 @@
+{
+  "name": "first-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Teste.js",
+  "scripts": {
+    "dev": "node Teste.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
